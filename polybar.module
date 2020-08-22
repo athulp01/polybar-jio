@@ -1,0 +1,6 @@
+[module/jio]
+type = custom/script
+format = <label>
+label = Jio: %output%
+exec = <path>/jio.py
+interval = 1800
