@@ -3,4 +3,4 @@ type = custom/script
 format = <label>
 label = Jio: %output%
 exec = <path>/jio.py
-interval = 1800
+interval = 600
